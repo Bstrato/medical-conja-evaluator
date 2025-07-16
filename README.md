@@ -6,7 +6,7 @@ An LLM-based evaluation system that benchmarks graph vs. tabular data structures
 A comprehensive evaluation framework for comparing graph-based and tabular data representations in medical unit transition analysis using Large Language Model (LLM) judges.
 
 #**Overview**
-This project implements an enhanced Medical Con-J (Conjunction) evaluator that analyzes how different data structure representations (graph vs. tabular) perform when answering clinical questions about patient unit transitions and hospital admissions. The system uses LLM-based evaluation to determine which representation format provides more accurate and clinically relevant responses.
+- This project implements an enhanced Medical Con-J (Conjunction) evaluator that analyzes how different data structure representations (graph vs. tabular) perform when answering clinical questions about patient unit transitions and hospital admissions. The system uses LLM-based evaluation to determine which representation format provides more accurate and clinically relevant responses.
 
 **#Key Features**
 - Dual Representation Analysis: Compares graph-structured data (nodes and edges) with tabular data (headers and rows) for the same medical information
