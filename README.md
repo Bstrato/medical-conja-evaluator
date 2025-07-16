@@ -28,4 +28,4 @@ This project implements an enhanced Medical Con-J (Conjunction) evaluator that a
 - Research into medical data visualization and interpretation
 
 **Output**
-The system generates comprehensive evaluation reports including winner distributions, confidence analyses, detailed case studies, and recommendations for optimal data representation strategies in medical contexts.
+- The system generates comprehensive evaluation reports including winner distributions, confidence analyses, detailed case studies, and recommendations for optimal data representation strategies in medical contexts.
