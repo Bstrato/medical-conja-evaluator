@@ -1,6 +1,5 @@
 **LLM reasoning over the same problem presented in two different format**
-An LLM-based evaluation system that benchmarks graph vs. tabular data structures in clinical decision support.
-
+- An LLM-based evaluation system that benchmarks graph vs. tabular data structures in clinical decision support.
 
 **Overview**
 - This project implements an enhanced Medical Con-J (Conjunction) evaluator that analyzes how different data structure representations (graph vs. tabular) perform when answering clinical questions about patient. The system uses LLM-based evaluation to determine which representation format provides more accurate and clinically relevant responses.
